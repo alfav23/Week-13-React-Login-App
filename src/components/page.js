@@ -1,3 +1,4 @@
+// creating class to bring together all components
 import React from 'react';
 import Navigation from './navbar';
 import LoginForm from './loginForm';

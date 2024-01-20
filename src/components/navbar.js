@@ -1,3 +1,5 @@
+// creating navbar and importing links
+
 import React from 'react';
 import Links from './navLinks.js'; 
 
