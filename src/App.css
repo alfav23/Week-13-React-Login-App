@@ -1,3 +1,48 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#login-border {
+  size: 2px;
+  justify-content: center;
+  margin: 100px;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+#login-button {
+  text-transform: uppercase;
+}
+
+#login-header {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+#username {
+  border-radius: 8px;
+}
+
+#password {
+  border-radius: 8px;
+}
+
+#nav-links {
+  margin-left: 65%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#home:hover, #about:hover, #contact:hover {
+  text-decoration: underline;
+  color:#282c34;
+}
+
+#my-footer {
+  padding-top: 20rem;
+}
+/* ---------------------------------------------- */
+
 .App {
   text-align: center;
 }
